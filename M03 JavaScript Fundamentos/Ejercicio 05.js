@@ -44,8 +44,10 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
    // Retornar el área de un rectángulo teniendo su altura y ancho.
    // Tu código:
-}
 
+   const area = alto * ancho;
+   return area;
+ }
 function retornarPerimetro(lado) {
    // La función recibe como argumento la medida de un lado de  Dun cuadrado.
    //ebes retornar su perímetro.
