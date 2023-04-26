@@ -92,17 +92,16 @@ function esVocal(letra) {
      }
    }
  }
- 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
-   esPositivo,
-   agregarSimboloExclamacion,
-   combinarNombres,
-   obtenerSaludo,
-   obtenerAreaRectangulo,
-   retornarPerimetro,
-   areaDelTriangulo,
-   deEuroAdolar,
-   esVocal,
+  esPositivo,
+  agregarSimboloExclamacion,
+  combinarNombres,
+  obtenerSaludo,
+  obtenerAreaRectangulo,
+  retornarPerimetro,
+  areaDelTriangulo,
+  deEuroAdolar,
+  esVocal,
 };
